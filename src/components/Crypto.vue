@@ -30,7 +30,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
   body {
     background: #f1f1f1;
