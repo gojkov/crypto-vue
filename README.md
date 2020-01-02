@@ -1,6 +1,6 @@
 # crypto-vue
 
-> Sample project for Versatrans
+> Sample project
 
 ## Build Setup
 
